@@ -1,0 +1,19 @@
+.head {
+    font-family:  "comic sans ms";
+    color:aqua;
+}
+.para {
+    font-family:  "comic sans ms";
+    color:blue;
+}
+.card {
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    background-color: lightblue;
+    text-align: center;
+}
+.img {
+    width: 300px;
+    height: 300px;
+}
